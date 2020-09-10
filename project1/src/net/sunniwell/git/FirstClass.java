@@ -6,5 +6,6 @@ public class FirstClass {
         System.out.println("tijiaoaaaaaa");
         System.out.println("disancitijiao");
         System.out.println("添加一些东西");
+        System.out.println("ddddd");
     }
 }
